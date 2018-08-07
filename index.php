@@ -16,7 +16,7 @@ if(isset($_GET['delete_id']))
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Simple CRUD Operations With PHP and MySql - By Coding Cage</title>
 <link rel="stylesheet" href="style.css" type="text/css" />
-<script type="text/javascript">
+<script type="text/javascript">dfd
 function edt_id(id)
 {
 	if(confirm('Sure to edit ?'))
